@@ -1,5 +1,6 @@
 # LogicGraphNet - Counterfactual-Guided Policy Improvement for Neural Theorem Proving
 
+[![DOI](https://zenodo.org/badge/1070904821.svg)](https://doi.org/10.5281/zenodo.17644791)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
